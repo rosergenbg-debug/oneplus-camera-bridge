@@ -1,0 +1,5 @@
+<resources>
+    <color name="bridge_primary">#D92B2B</color>
+    <color name="bridge_on_primary">#FFFFFF</color>
+    <color name="bridge_background">#FFF8F7</color>
+</resources>
